@@ -27,3 +27,7 @@ h6 {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
 }
+
+body {
+    background-color: lightred;
+}
