@@ -28,6 +28,11 @@ h6 {
     text-align: center;
 }
 
+p {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
 body {
     background-color: firebrick;
 }
