@@ -31,3 +31,8 @@ h6 {
 body {
     background-color: firebrick;
 }
+
+a {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
